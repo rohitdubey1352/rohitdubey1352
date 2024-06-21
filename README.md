@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(![banner](https://github.com/rohitdubey1352/rohitdubey1352/assets/56528673/fd4c4049-de3d-4b69-a5cc-7044cac9b2c9))
+![banner](https://github.com/rohitdubey1352/rohitdubey1352/assets/56528673/3d9f4b51-120c-4c66-8bbc-f06e6aeb3e57)
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
