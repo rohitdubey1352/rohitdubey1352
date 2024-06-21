@@ -5,19 +5,18 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=rohitdubey1352&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/rohitdubey1352?label=follow&style=social)](https://github.com/rohitdubey1352)&nbsp;
+[![GitHub rohitdubey1352](https://img.shields.io/github/followers/rohitdubey1352?label=follow&style=social)](https://github.com/rohitdubey1352)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
+💡 &nbsp; I am Rohit Dubey, a dedicated UI/UX Designer/Frontend Developer, With over 6 months of valuable internship experience. \
+💻 &nbsp; I have honed my skills in crafting exceptional User Interface and Experience Designs for websites and mobile applications, Front-End Development, Social Media Design, Graphic Design, and WordPress Development.\
+🎓&nbsp; I'm graduated form ITM University, Gwalior (B.Tech, Computer Science and Engineering, Batch of 2020-2024).\
+🌱 &nbsp;I'm on track for learning more about Full-stack Web Developer.\
+✍️ &nbsp;I find solace in my passions for jogging, exploring trending design concepts, traveling, biking, and much more..\
+💬 &nbsp;Feel free to reach out to me for general topics or technical!\
+✉️ &nbsp;You can email me at rohitdubey1352@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Rohit_Dubey (1).pdf](https://github.com/user-attachments/files/15925193/Rohit_Dubey.1.pdf) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
