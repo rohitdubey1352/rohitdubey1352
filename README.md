@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am Rohit Dubey, a dedicated Frontend Developer & UI/UX Designer, With over 6 months of valuable internship experience. \
+💡 &nbsp; I am Rohit Dubey, a dedicated Frontend Developer & UI/UX Designer, With over 2.5 Yeares of valuable experience. \
 💻 &nbsp; I have honed my skills in Front-End Development, crafting exceptional User Interface and Experience Designs for websites and mobile applications, , Social Media Design, Graphic Design, and WordPress Development.\
 🎓&nbsp; I'm graduated form ITM University, Gwalior (B.Tech, Computer Science and Engineering, Batch of 2020-2024).\
 🌱 &nbsp;I'm on track for learning more about Full-stack Web Developer.\
