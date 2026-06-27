@@ -16,7 +16,7 @@
 
 You can view my latest resume here:
 
-🔗 [Rohit Dubey - Resume](https://drive.google.com/file/d/1E9hMRdqTs6bvyTNHnHXfVx6uplNcQkgZ/view?usp=drive_link)\
+🔗 [Rohit Dubey - Resume](https://drive.google.com/file/d/1E9hMRdqTs6bvyTNHnHXfVx6uplNcQkgZ/view?usp=drive_link)
 
 
 ### 🛠 &nbsp;Tech Stack
