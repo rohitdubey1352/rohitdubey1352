@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Full-stack Web Developer.\
 ✍️ &nbsp;I find solace in my passions for jogging, exploring trending design concepts, traveling, biking, and much more..\
 💬 &nbsp;Feel free to reach out to me for general topics or technical!\
-✉️ &nbsp;You can email me at rohitdubey1352@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at rohitdubey1352@gmail.com. I'll try to respond as soon as possible!
 
 ## 📄 Resume
 
