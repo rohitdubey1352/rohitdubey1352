@@ -11,7 +11,12 @@
 ✍️ &nbsp;I find solace in my passions for jogging, exploring trending design concepts, traveling, biking, and much more..\
 💬 &nbsp;Feel free to reach out to me for general topics or technical!\
 ✉️ &nbsp;You can email me at rohitdubey1352@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Rohit_Dubey]([https://drive.google.com/file/d/1E9hMRdqTs6bvyTNHnHXfVx6uplNcQkgZ/view?usp=drive_link]) for more details about work experience.
+
+## 📄 Resume
+
+You can view my latest resume here:
+
+🔗 [Rohit Dubey - Resume](https://drive.google.com/file/d/1E9hMRdqTs6bvyTNHnHXfVx6uplNcQkgZ/view?usp=drive_link)
 
 
 ### 🛠 &nbsp;Tech Stack
